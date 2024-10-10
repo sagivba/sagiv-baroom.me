@@ -90,3 +90,8 @@ This means:
 2. Other resource limits (e.g., CPU, sessions per user) will also follow the default settings, which may lead to uncontrolled resource usage.
 
 By not defining a profile, you're leaving session behavior and resource usage less controlled, which might affect performance or security in certain cases.
+
+## list all proxy user 
+```sql
+SELECT PROXY, CLIENT FROM DBA_PROXIES;
+```
