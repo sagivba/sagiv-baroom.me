@@ -4,7 +4,7 @@ title:  "Generating Random Data for Tables Using LLMs [AI]"
 author: "Sagiv Barhoom"
 date:   2024-11-25
 categories: ORACLE,AI
-background: ''
+background: '/img/posts/randomnace.jpg'
 ---
 
 
