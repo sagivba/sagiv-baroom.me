@@ -7,7 +7,11 @@ categories: ORACLE
 background: '/img/posts/randomnace.jpg'
 ---
 # Generate random data  in  a table
-We can create a random data table using the `CONNECT BY` clause in a SQL query. 
+We can create a random data table using the `CONNECT BY` clause in a SQL query.
+
+-  Update (25.11.2025):
+   I think that you may find this also interesting:
+   [Generating Random Data for Tables Using *LLMs a.k.a AI*](https://www.sagiv-barhoom.me/oracle,ai/2024/11/25/Generating_Random_Data_using_AI.html)
 Here's a basic example:
 
 ```sql
