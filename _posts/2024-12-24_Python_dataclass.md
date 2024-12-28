@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Python_dataclass"
+author: "Sagiv Barhoom"
+date:   2024-12-24
+categories: Python
+background: '/img/posts/python.jpg'
+---
+
 # Simplifying Python Code with `dataclass`
 
 The `dataclass` decorator, introduced in Python 3.7, streamlines class creation when the primary purpose is storing data. 
