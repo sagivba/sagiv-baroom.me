@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python_dataclass"
+title:  "Simplifying Python Code with @dataclass"
 author: "Sagiv Barhoom"
 date:   2024-12-24
 categories: Python
