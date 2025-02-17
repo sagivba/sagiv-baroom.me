@@ -2,7 +2,7 @@
 layout: post
 title:  " python collections 101"
 author: "Sagiv Barhoom"
-date:   2025-17-01
+date:   2025-01-17
 categories: Python
 background: '/img/posts/python.jpg'
 ---
